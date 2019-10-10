@@ -1,0 +1,157 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dt, dd, img, form, fieldset, blockquote { 
+ margin:0px; padding:0px; border:0px; 
+ } 
+ 
+body {font-family: Arial, helvetica, sans-serif; font-size: 62.5%; } 
+ 
+ .container {width: 900px; margin: 0 auto; }
+ 
+#login {float: left; width: 50%;}
+
+p#subscribe {float: right; width: 50%; text-align: right; }
+	
+#top_bar p {font-size: 1.2em; color: #ebf0e8;}
+
+#top_bar a {font-size: 1.2em; color: #a5bf8d;}
+
+#top_bar {
+ overflow: hidden;
+ background: url(images/bar_slice.jpg) repeat-x;
+ padding-top: 7px;
+ padding-bottom: 7px;
+ border-bottom: 1px solid #7ab7b7;
+ background: linear-gradient(to top,#073A39 ,#1D625F);
+}
+
+ h1 {
+ font-family: "Myriad Pro", arial, sans-serif;
+ color: #fff;
+ font-weight: normal;
+ font-size: 4.8em;
+ padding-top: 25px;
+}
+
+p.desc {
+ font-family: "Myriad Pro", arial, sans-serif;
+ color: #fff;
+ font-size: 2.4em;
+ position: absolute;
+ top: 50%;  left: 8em;
+ 
+}
+
+#branding {
+ overflow: hidden;
+ margin-bottom: 30px;
+ position: relative;
+ 
+}
+#header {background: linear-gradient(to top,#159270 ,#0B8863) top repeat-x;}
+
+ul#menu {list-style: none; }
+
+ul#menu li a {
+ font-size: 1.5em;
+ font-weight: bold;
+ text-decoration: none;
+ color: #2b2b2b;
+ text-transform: uppercase;
+}
+
+ul#menu li {float: left; }
+
+ul#menu li {
+ float: left;
+ padding:  11px 45px 11px 0px; 
+}
+
+#navigation {
+background:linear-gradient(to top,#69A781 ,#8FBC96) top repeat-x; overflow: hidden;
+border-top: 1px solid #9cebda; }
+
+
+#posts {float: left; width: 67%; }
+#sidebar {float: right; width: 33%; }
+
+#content {overflow: hidden; }
+
+#sidebar {
+ float: right;
+ background: #d8ddd1;
+ padding: 25px;
+ width: 33%; 
+ padding: 25 px 3%;
+ width:  25%; 
+}
+
+#sidebar h3 {
+ font-size: 1.6em;
+ color: #3c3f40;
+ margin-top: 10px
+}
+
+#sidebar ul {list-style: none; margin-left: 20px; }
+
+#sidebar ul li {font-size: 1.2em; }
+
+#sidebar ul li a {text-decoration: none;color: #525254; }
+
+
+#posts h2 {margin: 7px 0 4px 0; font-size: 2.4em; }
+
+#posts h2, h3, h4, h5, h6 {color: #3c3f40; }
+
+#posts p {line-height: 1.3em; padding: 7px 0; font-size: 1.23em; }
+
+#posts small {font-size: 1.3em; }
+
+#posts a {color: #327800; font-weight: bold; text-decoration: none; }
+
+#posts blockquote {margin: 0.7em 3em; border-left: 2px solid #327800; padding-left: 10px; }
+
+#posts ol, ul, dl {font-size: 1.2em; margin: 4px 0 4px 40px; }
+
+#posts h3, h4, h5, h6 {padding: 4px 0; }
+
+#posts strong {font-weight: bolder; }
+
+#posts em {font-style: italic; }
+
+#posts code {font-size: 1.2em; }
+
+#posts h3 {font-size: 1.8em;}
+
+#posts h4 {font-size: 1.4em; }
+
+#posts {
+ float: left;
+ width: 67%;
+ margin-top: 25px;
+}
+
+#footer p {color: #a5bf8d;}
+
+#footer h4 {color: #a5bf8d; font-size: 1.4em; padding-top: 0; }
+
+#footer ul {list-style: none; margin-left: 0; }
+
+#footer ul li a {text-decoration: none; color: #fff; }
+
+#footer {font-size: 1.2em; background: linear-gradient(to top,#083B2A ,#154637) top repeat-x; 	
+border-top: 2px solid #1e956c;  
+ margin-top: 30px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+#copyright {float: left; width: 20%; }
+
+#links {float: left; width: 40%; }
+
+#feeds {float: left; width: 40%; }
+#footer {overflow: hidden;}  
+#copyright {
+ float: right;
+ text-align: right;
+ width: 20%;
+}}
+
